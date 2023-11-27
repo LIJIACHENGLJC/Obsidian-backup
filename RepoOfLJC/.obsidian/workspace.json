@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Office/Word VBA 可用代码.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -130,8 +130,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "491de99fa7cff461",
+  "active": "5c03c271ee18f9a0",
   "lastOpenFiles": [
+    "README.md",
     "Office/Word VBA 可用代码.md",
     "博士研究计划.md",
     "Readme.md",
